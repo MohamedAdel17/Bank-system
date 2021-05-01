@@ -7,7 +7,6 @@
 #include <windows.h>
 using namespace std;
 
-//best bank system ever
 //main menu function
 void main_menu();
 
